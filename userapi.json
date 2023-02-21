@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "carname":"Hyundai",
+        "carCreta":{
+            "name":"Creta",
+            "image":""
+        },
+        "carVerna":{
+            "name":"Verna",
+            "image":""
+        },
+        "carI20":{
+            "name":"I20",
+            "image":""
+        }
+    }
+]
+    
